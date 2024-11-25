@@ -1,0 +1,7 @@
+{
+  "Hero": {
+    "Title": "Démonstration de",
+    "Subtitle": "Cette démo utilise Next.js et le package next-intl pour créer un site web multilingue. Nous explorons également son fonctionnement avec Hygraph.",
+    "CallToAction": "Lisez à propos de nous"
+  }
+}
